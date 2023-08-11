@@ -1,0 +1,11 @@
+﻿  Tip-Tab-Till.cpp
+C:\Users\lenovo\source\repos\Tip-Tab-Till\Tip-Tab-Till\Tip-Tab-Till.cpp(337,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lenovo\source\repos\Tip-Tab-Till\Tip-Tab-Till\Tip-Tab-Till.cpp(393,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lenovo\source\repos\Tip-Tab-Till\Tip-Tab-Till\Tip-Tab-Till.cpp(407,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lenovo\source\repos\Tip-Tab-Till\Tip-Tab-Till\Tip-Tab-Till.cpp(440,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lenovo\source\repos\Tip-Tab-Till\Tip-Tab-Till\Tip-Tab-Till.cpp(481,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lenovo\source\repos\Tip-Tab-Till\Tip-Tab-Till\Tip-Tab-Till.cpp(525,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lenovo\source\repos\Tip-Tab-Till\Tip-Tab-Till\Tip-Tab-Till.cpp(577,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lenovo\source\repos\Tip-Tab-Till\Tip-Tab-Till\Tip-Tab-Till.cpp(619,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lenovo\source\repos\Tip-Tab-Till\Tip-Tab-Till\Tip-Tab-Till.cpp(635,21): warning C4018: '<': signed/unsigned mismatch
+  Tip-Tab-Till.vcxproj -> C:\Users\lenovo\source\repos\Tip-Tab-Till\Debug\Tip-Tab-Till.exe

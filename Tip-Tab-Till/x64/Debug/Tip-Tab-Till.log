@@ -1,0 +1,3 @@
+﻿  Tip-Tab-Till.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.31.31103\include\queue(203,19): error C2338: container adaptors require consistent types
+C:\Users\lenovo\source\repos\Tip-Tab-Till\Tip-Tab-Till\Tip-Tab-Till.cpp(502): message : see reference to class template instantiation 'std::priority_queue<State,std::vector<State *,std::allocator<State *>>,State::CompareForUSC>' being compiled
